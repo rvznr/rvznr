@@ -1,27 +1,9 @@
-🌟 Hi there! I'm Ravza, a passionate student in Management Information Systems (MIS) at Marmara University, with a strong interest in technology, data, and problem-solving.
+I’m Ravza, a Management Information Systems (MIS) student at Marmara University, passionate about technology and creating digital experiences that make life simpler and more efficient. My journey so far has been about exploring the intersection of data, development, and design. Whether it’s building apps, analyzing data, or diving into system analysis, I enjoy solving problems and bringing ideas to life.
 
-🌱 About Me
-
-📚 Senior student at Marmara University.
-
-💡 Exploring System Analysis and Design, ERP Systems (SAP), and Data Analytics.
-
-💻 Experienced in C# (Windows Forms, ASP.NET), Python, SQL/T-SQL, and R.
-
-🔬 Familiar with tools like Power BI, SPSS, and Excel.
-
-✉️ Passionate about learning and applying technology-driven solutions.
-
-🔧 Tech Stack
-
-Programming Languages: C#, Python, SQL, R
-
-Web Development: HTML, CSS, JavaScript, ASP.NET
-
-Data & Visualization: Power BI, Excel, SPSS
-
-Other Tools: Visual Studio, Jupyter Notebook
-
-📲 Communinication
-
-Email: ravzasisiknur@gmail.com
+🛠️ Skills:
+Programming: C#, Python, SQL, R
+Data Analysis & Visualization: Power BI, Excel
+Web Development: HTML/CSS, JavaScript
+Interests: System Analysis, ERP, App Development, Social Media Sentiment Analysis
+🌱 What Drives Me:
+I love exploring new technologies and tackling projects that challenge me to grow. From creating intuitive applications to uncovering insights through data, I’m always looking for opportunities to learn and make an impact.
