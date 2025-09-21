@@ -8,7 +8,7 @@ I’m Ravza, a senior at Marmara University studying Management Information Syst
 - **Programming Languages:** C#, Python, SQL, R  
 - **Data Analysis & Visualization:** Power BI, Excel  
 - **Web Development:** HTML/CSS, JavaScript  
-- **Interests:** System Analysis & Design, ERP, Social Media Sentiment Analysis  
+- **Interests:** System Analysis & Design, ERP Systems, Business Intelligence, Social Media Sentiment Analysis  
 
 ---
 
